@@ -11,7 +11,7 @@
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/mcp?style=flat&logo=reddit&label=subreddit)](https://www.reddit.com/r/mcp/)
 
 # MCP工具集合资源网站
-[![Discord](http://mcp.so/)](http://mcp.so/)
+[mcp工具资源网站: 很齐全](http://mcp.so/)
 
 A curated list of awesome Model Context Protocol (MCP) servers.
 
